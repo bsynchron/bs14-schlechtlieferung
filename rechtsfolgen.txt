@@ -13,12 +13,39 @@ Kaufvertrag:
 -> Dabei muss jedoch die Verjähungsfrist beachtet werden
 
 Arbeitsvertrag:
-
+-> Beurteilung je nach Arbeitsvertag
+-> Ist das Arbeitsvolumen und die Arbeisqualität nicht näher beschrieben, so richtet sich das Leistungsversprechen einerseits nach der Ausübung des Direktionsrecht und nach dem subjektiven Leistungsvermögen des Arbeinehmers
+--> "Der Arbeitnehmer muss tun, was er soll, und zwar so gut, wie er kann."
+--> Ein Objektiver Maßstab ist nicht anzusetzen
+-> Unterscheidet sich die Leistung eines Arbeitnehmers deutlich von der Durchschnittsleistung so kann von Schlechtleistung gesprochen werden
+-> Auf Pflichtverletzungen beruhende Schlechtleistung sind Grund für eine ordentliche Kündigung
 
 Mietvertag:
-
+-> Der Mieter muss den Mangel beim Vermieter anzeigen
+--> Nun ist der Mieter von der Mieter befreit oder braucht nur eine angemessen herabgesetze Miete zahlen
+--> Mietverminderung bei Mängeln:
+---> Schimmelpilz bis 100% der Miete
+---> Rattenbefall bis 80%
+---> Heizungsausfall im Winter bis 75%
+---> erhebliche Bauarbeiten im Haus bis 60%
+---> Feuchtigkeit in den Wänden bis 50%
+---> Lärmbelästigung durch Nachbarn bis 35%
+---> Ungeziefer bis 25%
+---> Ausfall der Wasserversorgung bis 10%
+-> Der Mieter kann optional auch Schadensersatz verlangen
 
 Reisevertrag:
-
+-> Bei vorliegenden Reisemängeln kann der Reisende Abhilfe verlangen
+-> Eine Abhilfe schaffen und Aufwendungsersatz verlangen
+-> Ersatzleistungen verlangen
+-> Kostentragung für eine notwendige Beherbergung verlangen
+-> Den Vertrag kündigen
+-> Minderung des Reisepreises verlangen
+-> Schadensersatz bzw. Ersatz vergeblicher Aufwendungen verlangen
 
 Werkvertrag:
+-> Bei Schlechtleistung kann der Besteller Nacherfüllung verlangen
+-> Den Mangel selbst beseitigen und Ersatz der erforderlichen Aufwendungen verlangen
+-> Vom Vertrag zurücktreten
+-> Die Vergütung mindern
+-> Schadensersatz verlangen
