@@ -1,0 +1,28 @@
+Kaufvertrag:
+Beispiel: Neuwagen
+-> muss frei von Sach- und Rechtsmängeln sein
+-> muss vom Hersteller zugesicherte Beschaffenheit haben und "fabrikneu"
+-> jedoch darf der Kraftstoffverbrauch bis zu 10% variieren
+
+Arbeitsvertrag:
+-> Angestellte müssen unter angemessener Ausschöpfung ihrer persönlichen Leistungsfähigkeit arbeiten
+--> wenn dies nicht geschieht liegt schlechtleistung vor und kann bis zur kündigung führen
+--> darunter fällt auch fehlende arbeitsintensität (Prokrastination, Langsamarbeit etc.)
+
+Mietvertag:
+-> Der Vermieter muss dem Mieter während der Mietszeit zum vertragsmäßigem gebrauch zugang gewähren
+-> Mieträume sind im bezugsfertigen Zustand zu übergeben
+-> Nicht renovierte Mietwohnungen stellen keinen Mangel dar und dürfen auch unrenoviert übergeben werden
+
+Reisevertrag:
+-> Der Reiseveranstalter ist verpflichtet die Pauschalreise frei von Reisemängeln zur verfügung zustellen
+-> Alle zugesicherten Eigenschaften der Reise müssen vorhanden sein und dürfen nicht den vertraglich festgehaltenem Nutzen hinder oder aufheben
+--> Ein Mangel sind Ereignisse und Umstände welche die gesamte Reise oder einzelne Reiseleistungen beeinträchtigen
+---> Hierzu zählen auch nicht beeinflussbare Risiken wie Tropenstürme oder Bürgerkrieg
+---> Reiseeigenschaften sind alle Umstände die sich wegen ihrer Art und Dauer auf den Wert und die Tauglichkeit der Reise auswirken
+
+Werkvertrag:
+Beispiel: Maurer
+-> hat nicht lotgerecht gemauert -> schlechtleistung
+-> Das Werk muss die vereinbarte Beschaffenheit besitzen, sonst lieg ein Sachmangel und damit eine Schlechtleistung vor
+-> Der Unternehmner muss das versprochene Wekr mangelfrei abliefern, da der tatsächliche Leistungserfolg für das Zustandekommen des Werkvertrags maßgeblich ist
